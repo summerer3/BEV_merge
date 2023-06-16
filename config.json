@@ -1,0 +1,4 @@
+{
+    "cameras":["front","back","left","right"],
+    "chess":[11,8]
+}
